@@ -39,7 +39,7 @@ mcmc_result = pd.read_csv("../" + LENS + f"/out_mcmc_{CONSTRAINT}.dat", sep='\s+
 - obs_point3.dat: flux constraint only
 
 ## output files
-Generally, the name consists of the type of operations, constraints used maybe some indexing if I retry the same thing. 
+Generally, the name consists of the type of operations, constraints used and maybe some indexing if I retry the same thing. 
 
 # 3. Figures
 They can be found in the fig file. Their naming is similar to that of output files. 
